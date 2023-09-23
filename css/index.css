@@ -1,5 +1,8 @@
 body{
-    background-color: black ;
+    background-image: url("../img/platillo.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 div{
     background-color: white;
