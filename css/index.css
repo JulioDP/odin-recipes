@@ -1,3 +1,9 @@
+body{
+    background-color: black ;
+}
+div{
+    background-color: white;
+}
 .text-center{
     text-align: center;
     margin-bottom: 20px;
